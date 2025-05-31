@@ -4,7 +4,6 @@
 
 Me chamo Lucas Filipe França, estudante de Sistemas de Informação no 3º período da Faculdade Cotemig, em Belo Horizonte - MG.
 Sou apaixonado por tecnologia e estou sempre em busca de novos desafios para aprender e crescer na área de desenvolvimento de software.
-Atualmente, tenho interesse em programação, estrutura de dados, algoritmos, back-end, inteligência artificial e desenvolvimento de jogos.
 Acredito que a tecnologia tem o poder de transformar o mundo e estou motivado a contribuir com soluções criativas e eficientes para isso.
 
 <p align="left">
