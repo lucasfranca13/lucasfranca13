@@ -50,7 +50,7 @@ Acredito que a tecnologia tem o poder de transformar o mundo e estou motivado a 
     title=".NET Framework" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2F1BC75jFEBED6%2Fnet-framework&psig=AOvVaw0fTE0BO5cYpL0c2y6SUjL7&ust=1748810647474000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKilob3Jzo0DFQAAAAAdAAAAABAT" 
+    src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" 
 />
 <img 
     align="left" 
