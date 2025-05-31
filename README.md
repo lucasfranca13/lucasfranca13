@@ -9,7 +9,11 @@ Acredito que a tecnologia tem o poder de transformar o mundo e estou motivado a 
 
 <p align="left">
     <a href="https://github.com/lucasfranca13">
-        
+         <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+        />
+    </a>
        </p>
 
 ---
