@@ -6,15 +6,6 @@ Me chamo Lucas Filipe França, estudante de Sistemas de Informação no 3º per�
 Sou apaixonado por tecnologia e estou sempre em busca de novos desafios para aprender e crescer na área de desenvolvimento de software.
 Acredito que a tecnologia tem o poder de transformar o mundo e estou motivado a contribuir com soluções criativas e eficientes para isso.
 
-<p align="left">
-    <a href="https://github.com/lucasfranca13">
-         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-        />
-    </a>
-       </p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
