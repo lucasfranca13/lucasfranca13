@@ -3,7 +3,6 @@
 - 🎓 Estou no **4° período do curso de Sistemas de Informação**.  
 - 💼 Atualmente atuo como **Analista de Suporte de Sistemas**, mas estou em busca da minha **primeira oportunidade em Desenvolvimento de Software**.  
 - 📚 Estudo constantemente e desenvolvo **projetos pessoais e acadêmicos** para consolidar minhas habilidades.  
-- 🚀 Tenho interesse especial em **C#, .NET Core, Java e Desenvolvimento Web**.
 
 ---
 
