@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Lucas França
 
 - 🎓 Estou no **4° período do curso de Sistemas de Informação**.  
-- 💼 Atualmente atuo como **Analista de Suporte de Sistemas**, mas estou em busca da minha **primeira oportunidade em Desenvolvimento de Software**.  
+- 💼 Atualmente atuo como **Analista de Suporte de Sistemas**, mas estou em busca da minha **primeira oportunidade como Desenvolvimento de Software**.  
 - 📚 Estudando constantemente e desenvolvendo **projetos pessoais e acadêmicos** para consolidar minhas habilidades.  
 
 ---
