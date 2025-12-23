@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lucas França
 
-- 🎓 Estou no **5° período do curso de Sistemas de Informação**.  
+- 🎓 Estou no **5° período do curso de Sistemas de Informação** na **Facudade Cotemig**.  
 - 💼 Atualmente atuo como **Analista de Suporte de Sistemas**, mas estou em busca da minha **primeira oportunidade como Desenvolvedor de Software**.  
 - 📚 Estudando constantemente e desenvolvendo **projetos pessoais e acadêmicos** para consolidar minhas habilidades.  
 
